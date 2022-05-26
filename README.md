@@ -42,13 +42,19 @@
 
 ### Javascript Practice
 
-[Chrome Clone](https://github.com/cona-tus/js_chrome '노마드코더 크롬 클론 코딩')  
-<img width="300px" src="./image/JS-chrome.png" alt="크롬 클론 코딩" />
+<details open>
+  <summary>Chrome Clone</summary>
+  <a href="https://github.com/cona-tus/js_chrome">
+    <img width="600px" src="./image/JS-chrome.png" alt="크롬 클론 코딩" />
+  </a>
+</details>
 
-<br/>
-
-[30 Day Challenge](https://github.com/cona-tus/JavaScript-Practice 'Wesbos 30일 챌린지')  
-<img width="300px" src="./image/JS-30day.png" alt="30일 챌린지" />
+<details open>
+  <summary>30 Day Challenge</summary>
+  <a href="https://github.com/cona-tus/JavaScript-Practice">
+<img width="600px" src="./image/JS-30day.png" alt="30일 챌린지" />
+  </a>
+</details>
 
 <br/>
 
