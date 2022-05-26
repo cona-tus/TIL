@@ -42,17 +42,17 @@
 
 ### Javascript Practice
 
-<details open>
+<details>
   <summary>Chrome Clone</summary>
   <a href="https://github.com/cona-tus/js_chrome">
-    <img width="600px" src="./image/JS-chrome.png" alt="크롬 클론 코딩" />
+    <img src="./image/JS-chrome.png" alt="크롬 클론 코딩" />
   </a>
 </details>
 
-<details open>
+<details>
   <summary>30 Day Challenge</summary>
   <a href="https://github.com/cona-tus/JavaScript-Practice">
-<img width="600px" src="./image/JS-30day.png" alt="30일 챌린지" />
+<img src="./image/JS-30day.png" alt="30일 챌린지" />
   </a>
 </details>
 
