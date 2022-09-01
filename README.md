@@ -4,7 +4,7 @@
 
 <br/>
 
-## Git
+## 🔴 Git
 
 - [x] [What is Git?](https://github.com/cona-tus/TIL/blob/master/git-github/1.git.md 'Git이란?')
 - [x] [Git Commands](https://github.com/cona-tus/TIL/blob/master/git-github/2.git-commands.md 'Git 명령어')
@@ -18,7 +18,7 @@
 
 ---
 
-## JavaScript
+## 🟡 JavaScript
 
 - [x] [Variable](https://github.com/cona-tus/TIL/tree/master/javascript/01.variable '변수')
 - [x] [Operator](https://github.com/cona-tus/TIL/tree/master/javascript/02.operator '연산자')
@@ -40,7 +40,7 @@
 
 <br/>
 
-### Javascript Practice
+### 🔶 Javascript Practice
 
 <details>
   <summary>Chrome Clone</summary>
@@ -67,9 +67,18 @@
 
 ---
 
+## 🔵 React
+
+- [x] [What is React?](https://github.com/cona-tus/TIL/blob/master/react/01.what-is-react.md '리액트란 무엇인가')
+- [x] [Why React?](https://github.com/cona-tus/TIL/blob/master/react/02.why-react.md '왜 리액트인가')
+
 <br/>
 
-## etc...
+### 🔷 React Practice
+
+---
+
+## ⚪️ etc...
 
 - [x] [Markdown](https://github.com/cona-tus/TIL/blob/master/markdown.md '마크다운')
 - [x] [Shell Commands](https://github.com/cona-tus/TIL/blob/master/shell-commands.md 'Shell 명령어')
